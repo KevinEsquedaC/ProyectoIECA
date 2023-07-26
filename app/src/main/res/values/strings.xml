@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IECAGTO</string>
+    <string name="menu_summary">Resumen del curso</string>
+    <string name="menu_rules">Reglamento</string>
+    <string name="menu_syllabus">Temario</string>
+    <string name="menu_sessions">Sesiones</string>
+    <string name="navDrawerOpen">Abierto</string>
+    <string name="navDrawerClose">Cerrado</string>
+    <string name="welcome">Bienvenido Alumno</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

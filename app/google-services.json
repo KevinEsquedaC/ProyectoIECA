@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "317092562918",
+    "firebase_url": "https://curso-android-ieca-32603-default-rtdb.firebaseio.com",
+    "project_id": "curso-android-ieca-32603",
+    "storage_bucket": "curso-android-ieca-32603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317092562918:android:9101874871f6bae310b827",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317092562918-6vt18h5mgkrv5qrokht5fjpl0eie7gmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOeNKY7jYHyboJVvxu8Jab6fgBlIq2OII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317092562918-6vt18h5mgkrv5qrokht5fjpl0eie7gmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317092562918:android:4871ac417665c66510b827",
+        "android_client_info": {
+          "package_name": "com.example.iecagto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317092562918-6vt18h5mgkrv5qrokht5fjpl0eie7gmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOeNKY7jYHyboJVvxu8Jab6fgBlIq2OII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317092562918-6vt18h5mgkrv5qrokht5fjpl0eie7gmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
